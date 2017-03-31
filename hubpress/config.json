@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://lybxlpsv.github.io/lybxlpsv.com",
+    "hubpress": "https://lybxlpsv.github.io/lybxlpsv.com",
+    "theme": "//lybxlpsv.github.io/lybxlpsv.com/themes/casper",
+    "images": "https://lybxlpsv.github.io/lybxlpsv.com/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
